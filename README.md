@@ -79,16 +79,16 @@ I'm a QA Automation Engineer with 5 years of experience delivering scalable UI a
 
 ## 📜 Certifications
 
-- Learn Selenium with Java, Cucumber & Frameworks — Basic to Advanced ## @Udemy
-- Learn API Testing using Postman & SoupUI ## @Udemy
-- Learn API Testing using Rest Assured & GraphQL ## @Udemy
-- Learn TypeScript ## @Udemy
+- Learn Selenium with Java, Cucumber & Frameworks — Basic to Advanced **@Udemy**
+- Learn API Testing using Postman & SoupUI **@Udemy**
+- Learn API Testing using Rest Assured & GraphQL  **@Udemy**
+- Learn TypeScript **@Udemy**
 
 ---
 
 ## 📫 Connect with Me
 
-- LinkedIn: https://www.linkedin.com/in/sasikumar-pichairaj/
+- LinkedIn: https://www.linkedin.com/in/sasikumar-pichairaj
 - Email: sasikumar2300@gmail.com
 
 ⭐ Thanks for visiting my profile!
