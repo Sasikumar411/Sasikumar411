@@ -2,13 +2,13 @@
 
 ## QA Automation Engineer | Selenium | Java | API Testing
 
-I'm a QA Automation Engineer with 5 years of experience in designing scalable UI and API automation frameworks. I enjoy building maintainable test automation solutions that improve software quality and accelerate delivery.
+I'm a QA Automation Engineer with 5 years of experience delivering scalable UI and API automation solutions using Selenium WebDriver, Java, TestNG, Cucumber, and REST Assured. Proven track record of automating 500+ test cases, reducing regression execution time by 30%, and integrating automation into CI/CD pipelines with Jenkins. Passionate about improving software quality through robust automation frameworks, API validation, and Agile collaboration.
 
 ---
 
 ## 👨‍💻 About Me
 
-- 💼 QA Automation Engineer
+- 💼 QA Test Engineer | UI Automation | API Automation | Selenium | Java | Rest Assured
 - 📍 Chennai, India
 - 💻 5 Years of Experience
 - 🌱 Currently learning Playwright with TypeScript
