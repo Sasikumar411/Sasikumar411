@@ -1,16 +1,94 @@
-## Hi there 👋
+# Hi 👋 I'm Sasi Kumar
 
-<!--
-**Sasikumar411/Sasikumar411** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## QA Automation Engineer | Selenium | Java | API Testing
 
-Here are some ideas to get you started:
+I'm a QA Automation Engineer with 5 years of experience in designing scalable UI and API automation frameworks. I enjoy building maintainable test automation solutions that improve software quality and accelerate delivery.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+- 💼 QA Automation Engineer
+- 📍 Chennai, India
+- 💻 5 Years of Experience
+- 🌱 Currently learning Playwright with TypeScript
+- 🚀 Open to QA Automation opportunities
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+- Java
+- SQL
+- JavaScript
+- TypeScript
+
+### UI Automation
+- Selenium WebDriver
+- TestNG
+- Cucumber BDD
+- Page Object Model
+
+### API Testing
+- REST Assured
+- Postman
+- JSON Schema Validation
+
+### CI/CD
+- Jenkins
+- Maven
+- Git
+- GitHub
+
+### Reporting
+- Extent Reports
+- Allure Reports
+
+### Tools
+- Eclipse
+- IntelliJ IDEA
+- VS Code
+- JIRA
+
+---
+
+## 📂 Featured Projects
+
+### Selenium Hybrid Automation Framework
+
+✔ Java
+✔ Selenium WebDriver
+✔ TestNG
+✔ Cucumber
+✔ Data Driven Framework
+✔ Page Object Model
+✔ Jenkins Integration
+
+---
+
+### REST Assured API Framework
+
+✔ CRUD Operations
+✔ Authentication
+✔ Schema Validation
+✔ Response Validation
+✔ Reusable Request Specifications
+
+---
+
+## 📜 Certifications
+
+- Learn Selenium with Java, Cucumber & Frameworks — Basic to Advanced @Udemy
+- Learn API Testing using Postman & SoupUI @Udemy
+- Learn API Testing using Rest Assured & GraphQL @Udemy
+- Learn TypeScript @Udemy
+
+---
+
+## 📫 Connect with Me
+
+- LinkedIn: https://www.linkedin.com/in/sasikumar-pichairaj/
+- Email: sasikumar2300@gmail.com
+
+⭐ Thanks for visiting my profile!
